@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "myhook", "myhook.vcxproj", "{BC86BEB7-8C37-4A4F-825A-3877C5251044}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "runhook", "runhook\runhook.vcxproj", "{810B5702-A07C-4376-9846-9233C6EE7C6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Public|Win32 = Public|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC86BEB7-8C37-4A4F-825A-3877C5251044}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC86BEB7-8C37-4A4F-825A-3877C5251044}.Debug|Win32.Build.0 = Debug|Win32
+		{BC86BEB7-8C37-4A4F-825A-3877C5251044}.Public|Win32.ActiveCfg = Public|Win32
+		{BC86BEB7-8C37-4A4F-825A-3877C5251044}.Public|Win32.Build.0 = Public|Win32
+		{BC86BEB7-8C37-4A4F-825A-3877C5251044}.Release|Win32.ActiveCfg = Release|Win32
+		{BC86BEB7-8C37-4A4F-825A-3877C5251044}.Release|Win32.Build.0 = Release|Win32
+		{810B5702-A07C-4376-9846-9233C6EE7C6C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{810B5702-A07C-4376-9846-9233C6EE7C6C}.Debug|Win32.Build.0 = Debug|Win32
+		{810B5702-A07C-4376-9846-9233C6EE7C6C}.Public|Win32.ActiveCfg = Public|Win32
+		{810B5702-A07C-4376-9846-9233C6EE7C6C}.Public|Win32.Build.0 = Public|Win32
+		{810B5702-A07C-4376-9846-9233C6EE7C6C}.Release|Win32.ActiveCfg = Release|Win32
+		{810B5702-A07C-4376-9846-9233C6EE7C6C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

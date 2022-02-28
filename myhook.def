@@ -1,0 +1,13 @@
+SECTIONS
+	.SHARDAT SHARED READ WRITE 
+
+EXPORTS
+	KeyHook			@1
+	SetDisplayMode	@2
+	SetDrawMode		@3
+	GetCommand		@4
+	AssignKey		@5
+	SetDebug		@6
+	InstallHook		@7
+	RemoveHook		@8
+	doDestroy		@9
