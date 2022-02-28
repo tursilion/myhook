@@ -20,7 +20,7 @@ About	- tells you who's responsible\
 Quit	- unload the hook. You can also double-click the icon with the left button.
 
 All other functions are defined in the .INI file. The INI, Myhook.ini, is first 
-looked for in the current directory (which is in Documents and Settings\<name>\
+looked for in the current directory (which is in Documents and Settings\\<name>\\
 Local Settings on Win2000), or the Windows directory if not found there. The INI 
 is re-read and then updated and saved on exit, so it's safe to change it while 
 the program is running, but you will have to close and re-launch to load the 
